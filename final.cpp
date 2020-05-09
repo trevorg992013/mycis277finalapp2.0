@@ -156,3 +156,13 @@ void recipeRemove(){
         }
   }
 }*/
+
+while(int x = 0 && x < recipesSize){
+        cout<<"**DEV**:"<< x <<endl;
+       cout << x  << ". " << recipesList[x];
+       x++;
+       cout << endl;
+}
+      
+
+
