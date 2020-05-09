@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Final App Project
+
+For my final app project I decided to make a database where people can create and store their favoirite meal recipes. This app can be used to create new recipes, or remove current outdated recipes line by line.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/trevorg992013/mycis277finalapp2.0/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
